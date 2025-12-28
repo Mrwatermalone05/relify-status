@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T09:27:29.868Z",
+  "generated_at": "2025-12-28T10:27:39.840Z",
   "timezone": "Asia/Kuala_Lumpur",
   "overall_ok": true,
   "services": [
@@ -9738,6 +9738,11 @@
       },
       {
         "t": "2025-12-28T09:00:00.000Z",
+        "up": true,
+        "ms": 792
+      },
+      {
+        "t": "2025-12-28T10:00:00.000Z",
         "up": true,
         "ms": 792
       }
