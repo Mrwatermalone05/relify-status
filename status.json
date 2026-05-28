@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T19:05:11.174Z",
+  "generated_at": "2026-05-28T19:54:51.649Z",
   "timezone": "Asia/Kuala_Lumpur",
   "overall_ok": false,
   "services": [
@@ -8,7 +8,7 @@
       "name": "Relify App",
       "ok": false,
       "code": 500,
-      "ms": 2011,
+      "ms": 2291,
       "uptime_24h": 35.7,
       "uptime_7d": 92,
       "uptime_30d": 98.3
