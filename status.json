@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T05:42:58.491Z",
+  "generated_at": "2026-08-24T07:10:24.366Z",
   "timezone": "Asia/Kuala_Lumpur",
   "overall_ok": true,
   "services": [
@@ -8,7 +8,7 @@
       "name": "Relify App",
       "ok": true,
       "code": 200,
-      "ms": 788,
+      "ms": 827,
       "uptime_24h": 100,
       "uptime_7d": 99.3,
       "uptime_30d": 99.8
@@ -16,11 +16,6 @@
   ],
   "history": {
     "app": [
-      {
-        "t": "2026-05-26T07:00:00.000Z",
-        "up": true,
-        "ms": 1058
-      },
       {
         "t": "2026-05-26T09:00:00.000Z",
         "up": true,
@@ -6350,6 +6345,11 @@
         "t": "2026-08-24T05:00:00.000Z",
         "up": true,
         "ms": 788
+      },
+      {
+        "t": "2026-08-24T07:00:00.000Z",
+        "up": true,
+        "ms": 827
       }
     ],
     "api": []
